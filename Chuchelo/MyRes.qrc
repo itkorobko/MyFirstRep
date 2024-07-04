@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/myimg">
+        <file>bita.png</file>
+        <file>fon.jpg</file>
+        <file>fotka_Zubovicha.png</file>
+        <file>heart.png</file>
+        <file>katafalk.png</file>
+        <file>Karpovich.jpg</file>
+        <file>Matveev.jpg</file>
+        <file>Veremeychik.jpg</file>
+        <file>Levakov.jpg</file>
+    </qresource>
+    <qresource prefix="/zvukii">
+        <file>inecraft_death.mp3</file>
+        <file>fshopen-pohoronnyj-marsh.mp3</file>
+        <file>Puppy_Love.mp3</file>
+    </qresource>
+    <qresource prefix="/tfiles"/>
+</RCC>

@@ -1,0 +1,5 @@
+nikolai  0 2
+grisha  0 4
+dmitri  0 6
+egor  0 7
+kolia  0 10

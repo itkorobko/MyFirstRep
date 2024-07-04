@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 12.0.2, 2024-06-28T13:46:27. -->
+<!-- Written by QtCreator 12.0.2, 2024-06-30T17:54:05. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -240,14 +240,14 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/UNI/ThirdTerehPro/ThirdTerehApp/ThirdTerehApp.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/UNI/ThirdTerehPro/ThirdTerehApp/ThirdTerehApp.pro</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">MyTest2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/HP/source/repos/temp/MyFirstRep/ThirdTerehPro/MyTest/MyTest.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/HP/source/repos/temp/MyFirstRep/ThirdTerehPro/MyTest/MyTest.pro</value>
+    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/UNI/build-ThirdTerehPro-Desktop_Qt_6_7_1_MinGW_64_bit-Debug/ThirdTerehApp</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/UNI/build-ThirdTerehPro-Desktop_Qt_6_7_1_MinGW_64_bit-Debug/MyTest</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -258,14 +258,14 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="bool" key="PE.EnvironmentAspect.PrintOnRun">false</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/UNI/ThirdTerehPro/MyTest/MyTest.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/UNI/ThirdTerehPro/MyTest/MyTest.pro</value>
-    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">false</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">ThirdTerehApp2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/HP/source/repos/temp/MyFirstRep/ThirdTerehPro/ThirdTerehApp/ThirdTerehApp.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/HP/source/repos/temp/MyFirstRep/ThirdTerehPro/ThirdTerehApp/ThirdTerehApp.pro</value>
+    <value type="bool" key="ProjectExplorer.RunConfiguration.Customized">true</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/UNI/build-ThirdTerehPro-Desktop_Qt_6_7_1_MinGW_64_bit-Debug/MyTest</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/UNI/build-ThirdTerehPro-Desktop_Qt_6_7_1_MinGW_64_bit-Debug/ThirdTerehApp</value>
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">2</value>
   </valuemap>
